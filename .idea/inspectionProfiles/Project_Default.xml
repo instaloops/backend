@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="content.models.Faq.objects" />
+          <option value="content.models.PaymentTransaction.*" />
+          <option value="content.models.Tournament.*" />
+          <option value="rest_framework.authtoken.models.Token.*" />
+          <option value="content.models.UserProfile.*" />
+          <option value="content.models.FaqSupport.objects" />
+          <option value="content.models.Team.*" />
+          <option value="content.models.Player.*" />
+          <option value="content.models.Game.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
